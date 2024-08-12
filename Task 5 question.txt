@@ -1,0 +1,4 @@
+yes, i need.
+------------------------------------------------------------------------------------
+For each transistor in the H-bridge, connect a diode in parallel with the transistor.
+The anode of each diode should be connected to the collector (or drain in case of MOSFETs) of the transistor, and the cathode should be connected to the supply voltage if using NPN transistors or N-channel MOSFETs (or vice versa for PNP transistors or P-channel MOSFETs).
