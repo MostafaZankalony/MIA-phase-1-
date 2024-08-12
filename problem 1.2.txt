@@ -1,0 +1,10 @@
+based on problem 1.1 the power supply = 5V.
+Voltage drop across the LED = 2V, then the Voltage across the resistor = 3V.
+Using Ohm's Law: V = IR.
+Current through the resistor = V/R = 3/330 = 9.09mA
+Since the current is within safe limits (less than 100mA), we can calculate the power consumed by each LED and resistor combination:
+ P = V×I = 5×9.09x10^(-3) = 0.04545W
+Calculate the number of LEDs that can be powered within the power budget:
+Total power budget = 1440W
+Power consumed by one LED = 0.04545W
+Number of LEDs = Total Power Budget / Power per LED= 1440/0.04545​ = 31682 LED

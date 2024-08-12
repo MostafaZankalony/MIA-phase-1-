@@ -1,0 +1,23 @@
+Power Solution for Four 12V Motors: Each motor draws 4A continuously, so total current draw from motors: 4 × 4A = 16A.
+Power Solution for a Camera: The camera draws 0.5A at 12V.
+
+Total Current Draw: 
+Motors = 16A and Camera = 0.5A, so total = 16.5A.
+
+Operating Time:
+The system must operate for at least half an hour (0.5 hours).
+
+Battery Voltage:
+12V (to match the system voltage).
+
+Calculations:
+Total Energy Required: Energy (in watt-hours) = Voltage (V) × Current (A) × Time (hours).
+Required energy = 12V × 16.5A × 0.5 hours = 99 Wh.
+
+Battery Selection Criteria:
+Capacity: The battery must have a capacity of at least 99Wh.
+Minimize Weight, Size, and Cost: Choose a battery that offers the necessary capacity with the smallest size and weight at an affordable price.
+Factor of Safety: It's prudent to add a margin to ensure reliability, for example, a 20% factor of safety, so adjusted capacity = 99 Wh × 1.2 = 118.8 Wh.
+
+The most suitable battery:
+JETECH 5S3P Li-Polymer Battery: This battery offers 6600mAh at 118.8Wh, suitable for professional equipment
